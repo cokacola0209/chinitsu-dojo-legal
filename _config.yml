@@ -1,0 +1,29 @@
+title: メンチン至上主義 法務ドキュメント
+description: 「メンチン至上主義」のプライバシーポリシー、利用規約、特定商取引法表記
+theme: jekyll-theme-cayman
+lang: ja
+
+# Markdown プロセッサの設定
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# サイト全体の設定
+plugins:
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: false
+
+include:
+  - "*.md"
+
+# 除外設定（README.md はトップページに使うので除外しない）
+exclude:
+  - vendor
+  - .bundle
+  - Gemfile
+  - Gemfile.lock
+  - .gitignore
