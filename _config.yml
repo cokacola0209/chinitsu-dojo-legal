@@ -2,6 +2,7 @@ title: メンチン至上主義 法務ドキュメント
 description: 「メンチン至上主義」のプライバシーポリシー、利用規約、特定商取引法表記
 theme: jekyll-theme-cayman
 lang: ja
+baseurl: "/chinitsu-dojo-legal"
 
 # Markdown プロセッサの設定
 markdown: kramdown
