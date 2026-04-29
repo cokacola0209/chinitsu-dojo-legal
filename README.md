@@ -9,9 +9,9 @@ title: メンチン至上主義 法務ドキュメント
 
 ## ドキュメント一覧
 
-- [プライバシーポリシー](./privacy-policy.html)
-- [利用規約](./terms-of-service.html)
-- [特定商取引法に基づく表記](./tokushoho.html)
+- [プライバシーポリシー]({{ site.baseurl }}/privacy-policy.html)
+- [利用規約]({{ site.baseurl }}/terms-of-service.html)
+- [特定商取引法に基づく表記]({{ site.baseurl }}/tokushoho.html)
 
 ## お問い合わせ
 

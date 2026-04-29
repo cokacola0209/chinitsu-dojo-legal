@@ -9,18 +9,7 @@ kramdown:
   input: GFM
   hard_wrap: false
 
-# サイト全体の設定
-plugins:
-  - jekyll-relative-links
-
-relative_links:
-  enabled: true
-  collections: false
-
-include:
-  - "*.md"
-
-# 除外設定（README.md はトップページに使うので除外しない）
+# 除外設定
 exclude:
   - vendor
   - .bundle
